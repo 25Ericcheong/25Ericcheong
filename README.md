@@ -8,8 +8,3 @@ I am currently trying to build a project with the MERN stack! It will be called 
 
 <h3>Proud to have finished</h3>
 * [x] I am currently learning Node.js purely out of interest. All my notes and where/how I've accumulated them can be seen in my `node-fundamentals` repository
-* [ ] Checkbox1
-
-* [ ] Checkbox2
-
-* [x] Checkbox selected
