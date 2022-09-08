@@ -1,7 +1,10 @@
 <h1>My name is Eric Cheong Kai Kit</h1>
+
 I have a website called www.ericcheongkaikit.com. Please to meet you!
 
-I am currently trying to build a project with the MERN stack! It will be called - What Did I Do Today
+<h2>What am I doing now?</h2>
+
+Working as a developer and learning all the time! Right now, I am building a project with the MERN stack! It will be called - What Did I Do Today
 <br>
 
 <h3>Achievements</h3>
