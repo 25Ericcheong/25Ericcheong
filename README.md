@@ -2,12 +2,10 @@
 I have a website called www.ericcheongkaikit.com. Please to meet you!
 
 I am currently trying to build a project with the MERN stack! It will be called - What Did I Do Today
-
 <br>
 
 <h3>Achievements</h3>
 1. Scratch the surface of Node.js and its framework - Express.js!
-
 <br>
 
 <h3>Proud to have finished</h3>
