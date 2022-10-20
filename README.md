@@ -4,7 +4,7 @@ I have a website called www.ericcheongkaikit.com. Please to meet you!
 
 <h2>What am I doing now?</h2>
 
-I am a developer and look forward to learning all the time! Currently, I am building a project with the MERN stack that will probably be used to remember places of where I want to go eat and where I have been eating, learning some Golang and creating a mini frontend project with images of Japan!
+I am a developer and look forward to learning all the time! Currently, I am building a project with the MERN stack that will probably be used to remember places of where I want to go eat and where I have been eating, learning some Golang and creating a tiny frontend project with images of Japan!
 <br>
 
 <h3>Achievements</h3>
