@@ -4,7 +4,7 @@ I have a website called www.ericcheongkaikit.com. Please to meet you!
 
 <h2>What am I doing now?</h2>
 
-I am a developer and look forward to learning all the time! Currently, I am currently learing Go and completing a tiny frontend project!
+I am a developer and look forward to learning all the time! Currently, I am currently learing Go (by building a project), putiting my Node fundamentals to practice (by also building another project) and completing a tiny frontend project! (sliding images of Japan)
 <br>
 
 <h3>Achievements</h3>
@@ -15,7 +15,7 @@ I am a developer and look forward to learning all the time! Currently, I am curr
 
 * [x] I am currently learning Node.js purely out of interest. All my notes and where/how I've accumulated them can be seen in my `node-fundamentals` repository
 
-<h3>Put on hold (only sadness)</h3>
-- To build a project with the MERN stack (will probably be used to remember places of where I want to go eat and where I have been eating)
-<br>
-- Complete tiny frontend project with images of Japan! (On it)
+<h3>In progress</h3>
+- A tool built with the MERN stack (will be a simple budgeting tool that I will use) <br>
+- A tiny frontend project with images of Japan! <br>
+- Another tool for my fitness workouts with the MERN stack as well 
