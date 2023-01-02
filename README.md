@@ -21,5 +21,5 @@ I am a developer and look forward to learning all the time! Currently, I am curr
 - Another tool for my fitness workouts with the MERN stack as well 
 
 <h3>Wishlist</h3>
-- A project to collect coordinates of parking spots possibly with React and Go
-- Desktop tool that saves shortcuts for user
+- A project to collect coordinates of parking spots possibly with React and Go <br>
+- Desktop tool that saves shortcuts for user to refer back to. I have yet to decide framework to use for this
