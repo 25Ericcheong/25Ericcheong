@@ -4,7 +4,7 @@ I have a website called www.ericcheongkaikit.com. Please to meet you!
 
 <h2>What am I doing now?</h2>
 
-I am a developer and look forward to learning all the time! Currently, I am currently learing Go (by building a project), putiting my Node fundamentals to practice (by also building another project) and completing a tiny frontend project! (sliding images of Japan)
+I am a developer and look forward to learning all the time! Currently, I am currently learing Go (by building a project - SOON), putiting my Node fundamentals to practice (by also building another project to track my stash; quite literally) and completing a tiny frontend project! (sliding images of Japan)
 <br>
 
 <h3>Achievements</h3>
