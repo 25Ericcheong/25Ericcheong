@@ -11,11 +11,11 @@ I am a developer and look forward to learning all the time! Currently, I am curr
 1. Scratch the surface of Node.js and its framework - Express.js!
 <br>
 
-<h3>Proud to have finished</h3>
+<h3>Proud to have Finished</h3>
 
 * [x] I am currently learning Node.js purely out of interest. All my notes and where/how I've accumulated them can be seen in my `node-fundamentals` repository
 
-<h3>In progress</h3>
+<h3>In Progress</h3>
 - A tool built with the MERN stack (will be a simple budgeting tool that I will use) <br>
 - A tiny frontend project with images of Japan! <br>
 - Another tool for my fitness workouts with the MERN stack as well 
