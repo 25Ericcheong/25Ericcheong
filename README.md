@@ -16,10 +16,11 @@ I am a developer and look forward to learning all the time! Currently, I am curr
 * [x] I am currently learning Node.js purely out of interest. All my notes and where/how I've accumulated them can be seen in my `node-fundamentals` repository
 
 <h3>In Progress</h3>
-- A tool built with the MERN stack (used to log my daily achievements / what I've learnt) <br>
+- A tool built with Ruby on Rails and TypeScript (used to log my daily achievements / what I've learnt) <br>
 - A tiny frontend project with images of Japan! <br>
 - Another tool for my fitness workouts with the MERN stack as well 
 
 <h3>Wishlist</h3>
 - A project to collect coordinates of parking spots possibly because I hate parking and not being able to locate one prior to driving annoys me <br>
-- Desktop tool that saves shortcuts for user to refer back to. I have yet to decide framework to use for this
+- Desktop tool that saves shortcuts for user to refer back to. I have yet to decide framework to use for this <br>
+- Another tool for my fitness workouts with the MERN stack 
