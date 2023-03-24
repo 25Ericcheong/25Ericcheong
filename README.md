@@ -4,7 +4,7 @@ I have a website called www.ericcheongkaikit.com. Please to meet you!
 
 <h2>What am I doing now?</h2>
 
-I want to solve problems and build things! Currently, I am currently learing Ruby putting my Node fundamentals to practice (by building another project to log my daily achievements or highlights; quite literally) and completing a tiny frontend project! (sliding images of Japan with fun features included)
+I want to solve problems and build things! I am currently putting my Node fundamentals to practice (by building another project to log my daily achievements or highlights; quite literally), Golang-ing, and completing a tiny frontend project! (sliding images of Japan with fun features included)
 <br>
 
 <h3>Achievements</h3>
