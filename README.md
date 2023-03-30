@@ -16,10 +16,10 @@ I want to solve problems and build things! I am currently putting my Node fundam
 * [x] I am currently learning Node.js purely out of interest. All my notes and where/how I've accumulated them can be seen in my `node-fundamentals` repository
 
 <h3>In Progress</h3>
-- A tool built with Express and TypeScript (used to log my daily achievements / what I've learnt) <br>
-- A tiny frontend project with images of Japan! <br>
-- Another tool for my fitness workouts with the MERN stack as well <br>
-- Learning MongoDB via the MongoDB University
+[ ] A tool built with Express and TypeScript (used to log my daily achievements / what I've learnt) <br>
+[ ] A tiny frontend project with images of Japan! <br>
+[ ] Another tool for my fitness workouts with the MERN stack as well <br>
+[ ] Learning MongoDB via the MongoDB University
 
 <h3>Wishlist</h3>
 - A project to collect coordinates of parking spots possibly because I hate parking and not being able to locate one prior to driving annoys me <br>
