@@ -18,7 +18,6 @@ I want to solve problems and build things! I am currently putting my Node fundam
 <h3>In Progress</h3>
 - A tool built with Express and TypeScript (used to log my daily achievements / what I've learnt) <br>
 - A tiny frontend project with images of Japan! <br>
-- Another tool for my fitness workouts with the MERN stack as well <br>
 - Learning MongoDB via the MongoDB University
 
 <h3>Wishlist</h3>
