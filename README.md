@@ -14,11 +14,11 @@ I want to solve problems and build things! I am currently putting my Node fundam
 <h3>Proud to have Finished</h3>
 
 * [x] I am currently learning Node.js purely out of interest. All my notes and where/how I've accumulated them can be seen in my `node-fundamentals` repository
+* [x] Learning MongoDB via the MongoDB University
 
 <h3>In Progress</h3>
 - A tool built with Express and TypeScript (used to log my daily achievements / what I've learnt) <br>
 - A tiny frontend project with images of Japan! <br>
-- Learning MongoDB via the MongoDB University
 
 <h3>Wishlist</h3>
 - A project to collect coordinates of parking spots possibly because I hate parking and not being able to locate one prior to driving annoys me <br>
