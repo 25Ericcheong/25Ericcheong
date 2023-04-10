@@ -19,6 +19,7 @@ I want to solve problems and build things! I am currently putting my Node fundam
 <h3>In Progress</h3>
 - A tool built with Express and TypeScript (used to log my daily achievements / what I've learnt) <br>
 - A tiny frontend project with images of Japan! <br>
+- A little Go script to remind me of peoples' birthday <br>
 
 <h3>Wishlist</h3>
 - A project to collect coordinates of parking spots possibly because I hate parking and not being able to locate one prior to driving annoys me <br>
