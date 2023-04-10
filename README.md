@@ -1,4 +1,4 @@
-<h1>My name is Eric Cheong Kai Kit</h1>
+* My name is Eric Cheong Kai Kit *
 
 I have a website called www.ericcheongkaikit.com. Please to meet you!
 
