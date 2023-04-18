@@ -16,7 +16,7 @@ I want to solve problems and build things! I am currently putting my Node fundam
 * [x] Learning MongoDB via the MongoDB University
 
 ### In Progress ###
-* A tool built with Express and TypeScript (used to log my daily achievements / what I've learnt)
+* A tool built with Go and TypeScript (used to log my daily achievements / what I've learnt)
 * A tiny frontend project with images of Japan!
 * A little Go script to remind me of peoples' birthday
 
