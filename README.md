@@ -4,7 +4,7 @@ I have a website called www.ericcheongkaikit.com. Please to meet you!
 
 ## What am I doing now? ##
 
-I want to solve problems and build things! I am currently Golang-ing and completing a tiny frontend project!
+I want to solve problems and build things! I am currently Golang-ing and Vue-ing!
 <br>
 
 ### In Progress ###
