@@ -9,4 +9,4 @@ I want to solve problems and build things! I am currently Golang-ing and Vue-ing
 
 ### In Progress ###
 * A random tool built with Go
-* Binq (a specialized bingsu shop in Malaysia, KL) landing page and additional tools
+* Binq (a specialized bingsu shop in Malaysia, KL) landing page and additional tools to save time
