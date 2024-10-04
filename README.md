@@ -8,8 +8,11 @@ I want to solve problems and build things! I am currently Golang-ing and Vue-ing
 <br>
 
 ### In Progress ###
-* A random tool built with Go
-* Another internal tool
+* Internal issue management tool
 
 ### Finished ###
 * Binq (a specialized bingsu shop in Malaysia, KL)
+
+### Backlogged ###
+* A random tool built with Go
+* Another internal tool
