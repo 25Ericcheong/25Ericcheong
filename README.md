@@ -13,6 +13,7 @@ I want to solve problems and build things! I am currently Golang-ing and Vue-ing
 * Linux
 * Homelab
 * In-house Web App
+* Kubernetes
 
 ### Finished ###
 * Binq (a specialized bingsu shop in Malaysia, KL)
