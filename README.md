@@ -8,7 +8,6 @@ I want to solve problems and build things! I am currently Golang-ing and Vue-ing
 <br>
 
 ### In Progress ###
-* Wheres the queue (self-explanatory)
 * Networking
 * Linux
 * Homelab
