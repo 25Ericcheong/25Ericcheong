@@ -11,7 +11,6 @@ I want to solve problems and build things! I am currently Golang-ing and Vue-ing
 * Networking
 * Linux
 * Homelab
-* In-house Web App
 * Kubernetes
 
 ### Finished ###
