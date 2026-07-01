@@ -13,6 +13,7 @@ I want to solve problems and build things! I am currently Golang-ing and Vue-ing
 * Homelab
 * Kubernetes
 * Fun projects
+* Perlette Cake (homemade baker in Malaysia, KL)
 
 ### Finished ###
 * Binq (a specialized bingsu shop in Malaysia, KL)
